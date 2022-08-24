@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Saad Fareed👋<a href="#"></h1>
+    <h1> Hi there, I'm Abdul Moiz👋<a href="#"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer;Python+Backend+Engineer;Data+Scientist;NLP+Engineer&center=true&width=500&height=50"></a>
