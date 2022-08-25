@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Abdul Moiz👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/weirdrebel"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer;Python+Backend+Engineer;Data+Scientist;NLP+Engineer&center=true&width=500&height=50"></a>
+<a href="https://github.com/weirdrebel"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer&center=true&width=500&height=50"></a>
 
 ### I'm a Python Developer, Teacher and Researcher!
 - 🔭 I’m currently working as Backend Engineer @Turingcom.
