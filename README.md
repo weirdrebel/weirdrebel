@@ -101,7 +101,7 @@
 </p>
 <br>
 <h2 >🏆 GitHub Profile Trophy</h2>
-<p>
+<p align="center">
 <a href="https://github.com/weirdrebel">
   <img src="https://github-profile-trophy.vercel.app/?username=weirdrebel&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 
