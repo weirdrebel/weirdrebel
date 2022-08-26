@@ -39,14 +39,14 @@
  
 </tr>
 
-<td align='center'>
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="80">
-    </td>
+
  
 <tr>
     
- 
+ <td align='center'>
+        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="80">
     </td>
+
 </tr>
     
 </table>
