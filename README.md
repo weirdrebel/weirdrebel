@@ -118,6 +118,6 @@
 <br>
 
 <p align="center"> 
-  Views<br>
+<h3> Views</h3><br>
   <img src="https://profile-counter.glitch.me/weirdrebel/count.svg" />
 </p>
