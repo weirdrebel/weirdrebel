@@ -10,6 +10,8 @@
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech geek, let's get connected :)  
+	
+[![@rebel's Holopin board](https://holopin.me/rebel)](https://holopin.io/@rebel)
  
 <h2>Tech Stack</h2>
 
@@ -102,6 +104,7 @@
   <img src="https://github.com/weirdrebel/weirdrebel/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
+
 <h2 >🏆 GitHub Profile Trophy</h2>
 <p align="center">
 <a href="https://github.com/weirdrebel">
@@ -110,13 +113,6 @@
 </p>
 <br>
 
-<h2 >🔰 Holopin Badge Board</h2>
-[![@rebel's Holopin board](https://holopin.io/api/user/board?user=rebel)](https://holopin.io/@rebel)
-[![@rebel's Holopin board](https://holopin.me/rebel)](https://holopin.io/@rebel)
-
-
-
-</br>
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/weirdrebel/count.svg" />
