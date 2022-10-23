@@ -10,8 +10,6 @@
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech geek, let's get connected :)  
-	
-[![@rebel's Holopin board](https://holopin.me/rebel)](https://holopin.io/@rebel)
  
 <h2>Tech Stack</h2>
 
@@ -113,7 +111,9 @@
 </p>
 <br>
 
+<h2 >🛡 Holopin Badge Board</h2>
 [![@rebel's Holopin board](https://holopin.me/rebel)](https://holopin.io/@rebel)
+</br>
 
 <p align="center"> 
   Views<br>
