@@ -111,7 +111,8 @@
 </p>
 <br>
 
-<h2 >🛡 Holopin Badge Board
+<h2 >🛡 Holopin Badge Board</h2>
+<br>
 
 [![@rebel's Holopin board](https://holopin.me/rebel)](https://holopin.io/@rebel)
 
