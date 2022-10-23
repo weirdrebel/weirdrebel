@@ -111,10 +111,11 @@
 <br>
 
 <h2 >🔰 Holopin Badge Board</h2>
-[![@rebel's Holopin board](https://holopin.io/api/user/board?user=rebel)](https://holopin.io/@rebel)
+[![@weirdrebel's Holopin board](https://holopin.io/api/user/board?user=weirdrebel)](https://holopin.io/@rebel)
 
 
 
+</br>
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/weirdrebel/count.svg" />
