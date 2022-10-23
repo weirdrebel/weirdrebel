@@ -109,6 +109,13 @@
 </a>
 </p>
 
+<h2 >🔰 Holopin Badge Board</h2>
+[![@rebel's Holopin board](https://holopin.me/rebel)](https://holopin.io/@rebel)
+
+
+
+
+
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/weirdrebel/count.svg" />
