@@ -117,7 +117,8 @@
 [![@rebel's Holopin board](https://holopin.me/rebel)](https://holopin.io/@rebel)
 <br>
 
-<p align="center"> 
+
 <h3 align="center">Views</h3><br>
+<p align="center"> 
   <img src="https://profile-counter.glitch.me/weirdrebel/count.svg" />
 </p>
