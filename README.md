@@ -112,7 +112,7 @@
 
 <h2 >🔰 Holopin Badge Board</h2>
 <p align="center">
-<img src= "(https://holopin.me/rebel)(https://holopin.io/@rebel)" />
+<img src= "https://holopin.io/@rebel" />
 </p>
 
 
