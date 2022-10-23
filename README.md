@@ -111,7 +111,8 @@
 <br>
 
 <h2 >🔰 Holopin Badge Board</h2>
-[![@weirdrebel's Holopin board](https://holopin.io/api/user/board?user=weirdrebel)](https://holopin.io/@rebel)
+[![@rebel's Holopin board](https://holopin.io/api/user/board?user=rebel)](https://holopin.io/@rebel)
+[![@rebel's Holopin board](https://holopin.me/rebel)](https://holopin.io/@rebel)
 
 
 
