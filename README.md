@@ -108,11 +108,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=weirdrebel&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 </a>
 </p>
+<br>
 
 <h2 >🔰 Holopin Badge Board</h2>
-[![@rebel's Holopin board](https://holopin.me/rebel)](https://holopin.io/@rebel)
-
-
+<p align="center">
+<img src= "[![@rebel's Holopin board](https://holopin.me/rebel)](https://holopin.io/@rebel)" />
+</p>
 
 
 
