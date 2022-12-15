@@ -6,7 +6,7 @@
 <a href="https://github.com/weirdrebel"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer&center=true&width=500&height=50"></a>
 
 ### I'm a C++, Python Developer, Researcher!
-- 🌱 I’m currently learning Python/Django Development.
+- 🌱 I’m currently improving my Computer Vision & Machine Learning skills.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech geek, let's get connected :)  
