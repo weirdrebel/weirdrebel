@@ -3,9 +3,9 @@
     <h1> Hi there, I'm Abdul Moiz👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/weirdrebel"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/weirdrebel"><img src="https://readme-typing-svg.herokuapp.com?lines=Python-Django+Developer&center=true&width=500&height=50"></a>
 
-### I'm a C++, Python Developer, Researcher!
+### I'm a Python-Django Developer, Researcher!
 - 🌱 I’m currently learning Computer Vision & Machine Learning.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
