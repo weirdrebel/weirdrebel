@@ -36,9 +36,6 @@
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="80">
     </td>
 	  
- <td align='center' width="200">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
-    </td>
 										    
 </tr>
 
@@ -51,6 +48,10 @@
     </td>
  <td align='center' width="200">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="90">
+    </td>
+	
+ <td align='center' width="200">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
     </td>
 
 </tr>
