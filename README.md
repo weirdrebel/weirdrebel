@@ -31,10 +31,6 @@
  <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
-
- <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="80">
-    </td>
 	  
 										    
 </tr>
@@ -58,11 +54,12 @@
     	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="80">
     </td>
 	
-
-
-
 </tr>
-    
+<tr>
+ <td align='center'>
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="80">
+ </td>
+</tr>
 </table>
 </p>
 <p align="center">
