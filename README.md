@@ -53,6 +53,11 @@
  <td align='center' width="200">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
     </td>
+	
+ <td align='center' width="200">
+    	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="80">
+    </td>
+
 
 </tr>
     
