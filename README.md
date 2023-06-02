@@ -4,11 +4,11 @@
   </div>
   <p align="center">
 	<a href="https://github.com/weirdrebel">
-		<img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Python-Django+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
+		<img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Python-Django+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 	</a>
   </p>
 
-### I'm a Python-Django Developer, Machine Learning Engineer, Researcher!
+### I'm a Python-Django Developer, Machine Learning Enthusiast, Researcher!
 - 🔭 I have a strong practical knowledge in the field of Machine Learning and have made significant contributions to projects focused on Computer Vision, Image Processing, and Deep Learning.
 - 🌱 I’m currently improving my Python-Django Development skills.
 - 👯 I’m looking to collaborate with other content creators and developers.
