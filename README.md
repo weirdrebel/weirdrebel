@@ -92,9 +92,10 @@
 
 ## Personal Projects
 
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
-|-------------|-------------------|---|---| ----|
-| [**Github Profile**](https://github.com/weirdrebel/weirdrebel) | [![GitHub issues](https://img.shields.io/github/issues/weirdrebel/weirdrebel?color=green&logo=github&style=flat)](https://github.com/weirdrebel/weirdrebel/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/weirdrebel/weirdrebel?style=flat&logo=github)](https://github.com/weirdrebel/weirdrebel/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/weirdrebel/weirdrebel?style=flat&color=critical&logo=github)](https://github.com/weirdrebel/weirdrebel/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/weirdrebel/weirdrebel?color=blue&logo=github&style=flat)](https://github.com/weirdrebel/weirdrebel/commits/) |
+| Project :octocat: | Issues :bug: | Open PRs :bell: | Closed PRs :fire: | Last Commit 🚩 |
+| ----------------- | ------------- | ---------------- | ------------------ | -------------- |
+| [**Github Profile**](https://github.com/weirdrebel/weirdrebel) | ![GitHub issues](https://img.shields.io/github/issues/weirdrebel/weirdrebel?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/weirdrebel/weirdrebel?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/weirdrebel/weirdrebel?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/weirdrebel/weirdrebel?color=blue&logo=github&style=flat) |
+
 
 
 
