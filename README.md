@@ -10,7 +10,7 @@
 
 ### I'm a Python-Django Developer, Machine Learning Engineer, Researcher!
 - 🔭 I have a strong practical knowledge in the field of Machine Learning and have made significant contributions to projects focused on Computer Vision, Image Processing, and Deep Learning.
-- 🌱 I’m currently my Python-Django Development skills.
+- 🌱 I’m currently improving my Python-Django Development skills.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech geek, let's get connected :)  
