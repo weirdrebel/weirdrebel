@@ -72,6 +72,23 @@
  
 <br>
 
+<h2>GitHub Analytics</h2>
+
+
+<table>
+  <tr>
+    <th>Stats</th>
+    <th>Streak</th>
+    <th>Languages</th>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=weirdrebel&theme=gruvbox"/></td>
+    <td>
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=weirdrebel&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weirdrebel&theme=gruvbox"/></td>
+  </tr>
+</table>
+
 
 ## Personal Projects
 
@@ -80,20 +97,7 @@
 | [**Github Profile**](https://github.com/weirdrebel/weirdrebel) | [![GitHub issues](https://img.shields.io/github/issues/weirdrebel/weirdrebel?color=green&logo=github&style=flat)](https://github.com/weirdrebel/weirdrebel/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/weirdrebel/weirdrebel?style=flat&logo=github)](https://github.com/weirdrebel/weirdrebel/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/weirdrebel/weirdrebel?style=flat&color=critical&logo=github)](https://github.com/weirdrebel/weirdrebel/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/weirdrebel/weirdrebel?color=blue&logo=github&style=flat)](https://github.com/weirdrebel/weirdrebel/commits/) |
 
 
-	
- 
- <h2>GitHub Analytics
- </h2>
 
-<p align="center">
-<a href="https://github.com/weirdrebel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weirdrebel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=weirdrebel&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=weirdrebel&show_icons=true&locale=en&layout=demo&theme=algolia" />
-</p>
-</p>
-<br>
 	
 ## ⚡️Github Contributions
 	
