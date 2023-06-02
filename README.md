@@ -123,16 +123,16 @@
 </p>
 <br>
 
-## 🐛Github Magic Game
-<p align="center">
-  <img src="https://github.com/weirdrebel/weirdrebel/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-<br>
-
 <h2 >🛡 Holopin Badge Board</h2>
 <br>
 
 [![@rebel's Holopin board](https://holopin.me/rebel)](https://holopin.io/@rebel)
+<br>
+
+## 🐛Github Magic Game
+<p align="center">
+  <img src="https://github.com/weirdrebel/weirdrebel/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 <br>
 
 
