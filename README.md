@@ -2,8 +2,11 @@
   <div align="center">
     <h1> Hi there, I'm Abdul Moiz👋<a href="#"></h1>
   </div>
-<p align="center">
-<a href="https://github.com/weirdrebel"><img src="https://readme-typing-svg.herokuapp.com?lines=Python-Django+Developer;Machine+Learning+Engineer&center=true&width=500&height=50"></a>
+  <p align="center">
+	<a href="https://github.com/weirdrebel">
+		<img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;Python-Django+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
+	</a>
+  </p>
 
 ### I'm a Python-Django Developer, Machine Learning Engineer, Researcher!
 - 🔭 I have a strong practical knowledge in the field of Machine Learning and have made significant contributions to projects focused on Computer Vision, Image Processing, and Deep Learning.
