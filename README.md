@@ -12,7 +12,7 @@
 - 🔭 I have a strong practical knowledge in the field of Machine Learning and have made significant contributions to projects focused on Computer Vision, Image Processing, and Deep Learning.
 - 🌱 I’m currently improving my Python-Django Development skills.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 🥅 2023-24 Goals: Contribute more to Open Source projects and execute my Innovative ideas.
 - 💎 If you are a Tech geek, let's get connected :)  
  
 <h2>Tech Stack</h2>
