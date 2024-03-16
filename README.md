@@ -32,7 +32,7 @@
 	
  </td>
  <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
+        <img src="[https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg](https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png)" width="80">
     </td>
 	  
 										    
