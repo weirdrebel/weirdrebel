@@ -32,7 +32,7 @@
 	
  </td>
  <td align='center'>
-        <img src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" width="80">
+        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="80">
     </td>
 	  
 										    
