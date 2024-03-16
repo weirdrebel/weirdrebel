@@ -8,11 +8,11 @@
 	</a>
   </p>
 
-### I'm a Python-Django Developer, Machine Learning Enthusiast, Researcher!
+### I'm a Web Developer, Machine Learning Enthusiast, Researcher!
 - 🔭 I have a strong practical knowledge in the field of Machine Learning and have made significant contributions to projects focused on Computer Vision, Image Processing, and Deep Learning.
 - 🌱 I’m currently improving my Python-Django Development skills.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2023-24 Goals: Contribute more to Open Source projects and execute my Innovative ideas.
+- 🥅 2024-25 Goals: Contribute more to Open Source projects and execute my Innovative ideas.
 - 💎 If you are a Tech geek, let's get connected :)  
  
 <h2>Tech Stack</h2>
