@@ -1,143 +1,76 @@
-<body>
-  <div align="center">
-    <h1> Hi there, I'm Abdul Moiz👋<a href="#"></h1>
-  </div>
-  <p align="center">
-	<a href="https://github.com/weirdrebel">
-		<img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Python-Django+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
-	</a>
-  </p>
+<h1 align="center">Hi, I'm Abdul Moiz 👋</h1>
+<h3 align="center">Software Engineer | AI & Backend Systems</h3>
 
-### I'm a Web Developer, Machine Learning Enthusiast, Researcher!
-- 🔭 I have a strong practical knowledge in the field of Machine Learning and have made significant contributions to projects focused on Computer Vision, Image Processing, and Deep Learning.
-- 🌱 I’m currently improving my Python-Django Development skills.
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2024-25 Goals: Contribute more to Open Source projects and execute my Innovative ideas.
-- 💎 If you are a Tech geek, let's get connected :)  
- 
-<h2>Tech Stack</h2>
-
-<table width="100">
-<tr>
-    
-  <td align='center' width="200">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
-    </td>
-	
- </td>
- <td align='center'>
-        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="80">
-    </td>
-	  
-										    
-</tr>
-
-
- 
-<tr>
-    
- <td align='center'>
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="80">
-    </td>
- <td align='center' width="200">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="90">
-    </td>
-	
- <td align='center' width="200">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
-    </td>
-	
- <td align='center' width="200">
-    	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="80">
-    </td>
-	
-</tr>
-<tr>
- <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="80">
- </td>
-</tr>
-</table>
-</p>
 <p align="center">
-<a href="https://www.linkedin.com/in/weirdrebel/"><img src="https://img.shields.io/badge/-Abdul%20Moiz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:theweirdrebel@gmail.com"><img src="https://img.shields.io/badge/-abdulmoiz@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
- 
-<br>
-
-<h2>GitHub Analytics</h2>
-
-
-<table>
-  <tr>
-    <th>Stats</th>
-    <th>Streak</th>
-    <th>Languages</th>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=weirdrebel&theme=gruvbox"/></td>
-    <td>
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=weirdrebel&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weirdrebel&theme=gruvbox"/></td>
-  </tr>
-</table>
-
-
-## Personal Projects
-
-| Project :octocat: | Issues :bug: | Open PRs :bell: | Closed PRs :fire: | Last Commit 🚩 |
-| ----------------- | ------------- | ---------------- | ------------------ | -------------- |
-| [**Github Profile**](https://github.com/weirdrebel/weirdrebel) | ![GitHub issues](https://img.shields.io/github/issues/weirdrebel/weirdrebel?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/weirdrebel/weirdrebel?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/weirdrebel/weirdrebel?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/weirdrebel/weirdrebel?color=blue&logo=github&style=flat) |
-
-
-
-
-	
-## ⚡️Github Contributions
-	
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
+  <a href="https://github.com/weirdrebel">
+    <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&weight=600&size=22&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=500&lines=Python+Backend+Engineer;AI+%26+LLM+Systems;Data+Pipelines+%26+Automation" />
+  </a>
 </p>
 
+---
 
-## 🚀Github Metrics
+### 🧠 About Me
+
+Software Engineer with experience building production-level backend systems, data pipelines, and AI-driven solutions.
+
+- Working with Python, Django, and scalable backend systems  
+- Experience with LLMs, RAG, and AI-based code generation  
+- Built large-scale data extraction and validation pipelines  
+- Interested in backend architecture and applied AI systems  
+
+---
+
+### ⚙️ Tech Stack
+
+**Backend & Programming**  
+Python, Django, SQL, REST APIs, Scrapy  
+
+**AI / ML**  
+Machine Learning, NLP, Computer Vision, LLMs, RAG, Prompt Engineering  
+
+**Data & Automation**  
+Data Extraction, Data Pipelines, Validation Systems  
+
+**Tools & Platforms**  
+Git, GitHub, Grafana, Docker  
+
+---
+
+### 💼 Experience Highlights
+
+- Built and maintained production-level data pipelines and automation systems  
+- Worked on large-scale data extraction for fashion industry platforms  
+- Contributed to LLM-based code generation systems  
+- Developed backend features for scalable applications (Django)  
+
+---
+
+### 🚀 Key Projects
+
+- **Data Extraction & Processing Platform** – Scalable scraping and validation pipelines  
+- **PlayPlus** – Backend development for sports activity and venue booking platform  
+- **CyberLens** – DL/NLP-based cyberbullying detection system  
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-	<img width="625em" src="https://github.com/weirdrebel/weirdrebel/blob/main/github-metrics.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=weirdrebel&theme=gruvbox"/>
 </p>
-<br>
 
-<h2 >🏆 GitHub Profile Trophy</h2>
+---
+
+### 📫 Connect With Me
+
 <p align="center">
-<a href="https://github.com/weirdrebel">
-  <img src="https://github-profile-trophy.vercel.app/?username=weirdrebel&theme=matrix&column=8&margin-w=15&margin-h=15"/>
+<a href="https://www.linkedin.com/in/weirdrebel/">
+  <img src="https://img.shields.io/badge/-Abdul%20Moiz-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
-</p>
-<br>
-
-<h2 >🛡 Holopin Badge Board</h2>
-<br>
-
-[![@rebel's Holopin board](https://holopin.me/rebel)](https://holopin.io/@rebel)
-<br>
-
-## 🐛Github Magic Game
-<p align="center">
-  <img src="https://github.com/weirdrebel/weirdrebel/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-<br>
-
-
-<h3 align="center">Views</h3>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/weirdrebel/count.svg" />
+<a href="mailto:muhammad.abmoiz@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/weirdrebel">
+  <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white"/>
+</a>
 </p>
