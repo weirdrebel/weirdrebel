@@ -61,7 +61,7 @@ Git, GitHub, Grafana
 ### 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/weirdrebel/">
+<a href="https://www.linkedin.com/in/muhammadabdulmoiz/">
   <img src="https://img.shields.io/badge/-Abdul%20Moiz-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="mailto:muhammad.abmoiz@gmail.com">
